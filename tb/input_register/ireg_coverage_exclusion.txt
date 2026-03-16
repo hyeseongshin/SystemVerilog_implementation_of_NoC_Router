@@ -1,0 +1,9 @@
+module -glbl
+module -setting_noc
+module -input_register_tb
+instance -input_register_tb.ireg_if
+instance -input_register_tb.ireg_if.driver_cb
+instance -input_register_tb.ireg_if.monitor_cb
+instance -input_register_tb.dut
+instance +input_register_tb.dut.reg_slice
+signal -input_register_tb.dut.reg_slice.data

@@ -1,0 +1,66 @@
+Time resolution is 1 ps
+Load scenario
+[Time 2000.00 ns] Env: Scenario file parsing completed. total 111 messages loaded!
+Configure network
+Simulation Start
+
+=========================
+Simulation End
+- Router 0: Exp 175104 / Recv 175104
+- Router 1: Exp 1048576 / Recv 1048576
+- Router 2: Exp 1048576 / Recv 1048576
+- Router 3: Exp 175104 / Recv 175104
+- Router 4: Exp 175104 / Recv 175104
+- Router 5: Exp 175104 / Recv 175104
+- Router 6: Exp 175104 / Recv 175104
+- Router 7: Exp 174592 / Recv 174592
+- Router 8: Exp 174592 / Recv 174592
+- Router 9: Exp 175104 / Recv 175104
+- Router 10: Exp 175104 / Recv 175104
+- Router 11: Exp 175104 / Recv 175104
+- Router 12: Exp 175104 / Recv 175104
+- Router 13: Exp 175104 / Recv 175104
+- Router 14: Exp 175104 / Recv 175104
+- Router 15: Exp 0 / Recv 0
+- Router 16: Exp 0 / Recv 0
+- Router 17: Exp 174080 / Recv 174080
+- Router 18: Exp 174080 / Recv 174080
+- Router 19: Exp 174080 / Recv 174080
+- Router 20: Exp 174080 / Recv 174080
+- Router 21: Exp 174080 / Recv 174080
+- Router 22: Exp 143360 / Recv 143360
+- Router 23: Exp 0 / Recv 0
+- Router 24: Exp 0 / Recv 0
+- Router 25: Exp 143360 / Recv 143360
+- Router 26: Exp 139264 / Recv 139264
+- Router 27: Exp 139264 / Recv 139264
+- Router 28: Exp 139264 / Recv 139264
+- Router 29: Exp 139264 / Recv 139264
+- Router 30: Exp 139264 / Recv 139264
+- Router 31: Exp 0 / Recv 0
+- Router 32: Exp 0 / Recv 0
+- Router 33: Exp 139264 / Recv 139264
+- Router 34: Exp 139264 / Recv 139264
+- Router 35: Exp 139264 / Recv 139264
+- Router 36: Exp 139264 / Recv 139264
+- Router 37: Exp 139264 / Recv 139264
+- Router 38: Exp 139264 / Recv 139264
+- Router 39: Exp 0 / Recv 0
+- Router 40: Exp 0 / Recv 0
+- Router 41: Exp 139264 / Recv 139264
+- Router 42: Exp 139264 / Recv 139264
+- Router 43: Exp 524288 / Recv 524288
+- Router 44: Exp 524288 / Recv 524288
+- Router 45: Exp 524288 / Recv 524288
+- Router 46: Exp 524288 / Recv 524288
+- Router 47: Exp 0 / Recv 0
+Total Errors: 0
+TEST PASSED
+Last router : 1
+Start time : 3030 ns
+End time : 1154750 ns
+Total time : 1151720 ns
+
+=========================
+$finish called at time : 1154770 ns : File "C:/Users/hyeseongshin/Desktop/workspace/systemverilog/mesh_network/project_4/project_4.srcs/sim_1/imports/hybrid_router_sv_v1.0/mesh_network_tb.sv" Line 417
+INFO: xsimkernel Simulation Memory Usage: 377048 KB (Peak: 377048 KB), Simulation CPU Usage: 1025421 ms

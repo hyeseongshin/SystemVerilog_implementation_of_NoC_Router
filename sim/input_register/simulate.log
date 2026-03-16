@@ -1,0 +1,34 @@
+Time resolution is 1 ps
+
+[Time 2000.00 ns] Injects random datas without back pressure
+
+[Time 202030.00 ns] Injects random datas with back pressure
+
+[Time 11339450.00 ns] TEST PASSED
+$finish called at time : 11339450 ns : File "C:/Users/hyeseongshin/Desktop/workspace/systemverilog/input_register/project_1/project_1.srcs/sim_1/imports/hybrid_router_sv_v1.0/input_register_tb.sv" Line 118
+INFO-SAVE : (TCL) Code Coverage DB saved successfully at : ./cov_db\xsim.codeCov\db1\xsim.CCInfo
+
+ Options Set are : 
+
+   Report Format              : html
+   Log File                   : xcrg.log
+   Code Coverage Dir[s]       : ./cov_db
+   Code Coverage DB[s]        : db1
+
+
+********************************************************
+                  Code Coverage Report 
+********************************************************
+
+ Restoring Code Coverage DB[s] from : 
+  1	./cov_db/xsim.codeCov/db1/xsim.CCInfo
+
+ Created Coverage Report Directory     : ./cov_report/codeCoverageReport
+
+ Code Coverage HTML Report directory              : ./cov_report/codeCoverageReport
+
+ Line Coverage Score 100
+ Branch Coverage Score 100
+ Condition Coverage Score 0
+ Toggle Coverage Score 100
+

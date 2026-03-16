@@ -1,0 +1,35 @@
+Time resolution is 1 ps
+
+[Time 3190.00 ns] Env: Single unicast packet
+
+[Time 3570.00 ns] Env: Single multicast packet (2 output ports)
+
+[Time 3950.00 ns] Env: Single multicast packet (4 output ports)
+
+[Time 4330.00 ns] Env: Unicast packet and multicast packet without contention
+
+[Time 4710.00 ns] Env: Contention between unicast packets to check round robin arbitration
+
+[Time 6230.00 ns] Env: Contention between multicast packets to check fixed priority arbitration
+
+[Time 6970.00 ns] Env: Contention between unicast packet and multicast packet to check multicast first arbitration
+
+[Time 7690.00 ns] Env: Check wormhole back-pressure for unicast packet
+
+[Time 8770.00 ns] Env: Check cut-through back-pressure for multicast packet
+
+[Time 9870.00 ns] Env: Inject random packets without back-pressure
+
+[Time 5390850.00 ns] Env: Inject random packets with random back-pressure
+
+=========================
+Simulation End
+Total Sends: 1453948
+Total Matches: 1453948
+Total Mismatches: 0
+Total Errors: 0
+TEST PASSED
+
+=========================
+$finish called at time : 13625190 ns : File "C:/Users/hyeseongshin/Desktop/workspace/systemverilog/hybrid_router/project_1/project_1.srcs/sim_1/imports/hybrid_router_sv_v1.0/hybrid_router_tb.sv" Line 541
+INFO: xsimkernel Simulation Memory Usage: 559632 KB (Peak: 559632 KB), Simulation CPU Usage: 27577 ms

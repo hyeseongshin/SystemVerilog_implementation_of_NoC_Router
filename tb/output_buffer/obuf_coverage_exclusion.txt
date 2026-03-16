@@ -1,0 +1,7 @@
+module -glbl
+module -setting_noc
+module -output_buffer_tb
+instance -output_buffer_tb.obuf_if
+instance -output_buffer_tb.obuf_if.driver_cb
+instance -output_buffer_tb.obuf_if.monitor_cb
+signal -output_buffer_tb.dut.fifo.memory

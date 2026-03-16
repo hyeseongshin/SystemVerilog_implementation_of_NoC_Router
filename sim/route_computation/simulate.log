@@ -1,0 +1,35 @@
+Time resolution is 1 ps
+
+[Time 2340.00 ns] Test RC mask
+
+[Time 2340.00 ns] Inject random dests
+
+[Time 20027730.00 ns] TEST PASSED
+$finish called at time : 20027730 ns : File "C:/Users/hyeseongshin/Desktop/workspace/systemverilog/route_computation/project_1/project_1.srcs/sim_1/imports/hybrid_router_sv_v1.0/route_computation_tb.sv" Line 236
+INFO-SAVE : (TCL) Code Coverage DB saved successfully at : ./cov_db\xsim.codeCov\db1\xsim.CCInfo
+
+ Options Set are : 
+
+   Report Format              : html
+   Log File                   : xcrg.log
+   Code Coverage Dir[s]       : ./cov_db
+   Code Coverage DB[s]        : db1
+
+
+********************************************************
+                  Code Coverage Report 
+********************************************************
+
+ Restoring Code Coverage DB[s] from : 
+  1	./cov_db/xsim.codeCov/db1/xsim.CCInfo
+
+ Created Coverage Report Directory     : ./cov_report/codeCoverageReport
+
+ Code Coverage HTML Report directory              : ./cov_report/codeCoverageReport
+
+ Line Coverage Score 100
+ Branch Coverage Score 100
+ Condition Coverage Score 100
+ Toggle Coverage Score 69.35
+
+INFO: xsimkernel Simulation Memory Usage: 500508 KB (Peak: 500508 KB), Simulation CPU Usage: 15921 ms

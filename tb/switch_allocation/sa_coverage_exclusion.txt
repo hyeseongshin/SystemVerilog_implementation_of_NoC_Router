@@ -1,0 +1,9 @@
+module -glbl
+module -setting_noc
+module -setting_tb
+module -switch_allocation_tb
+instance -*.sa_if
+instance -*.sa_if.driver_cb
+instance -*.sa_if.monitor_cb
+instance -*.sa_sva
+instance -*.rr_arb_sva

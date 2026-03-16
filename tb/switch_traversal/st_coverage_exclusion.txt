@@ -1,0 +1,7 @@
+module -glbl
+module -setting_noc
+module -switch_traversal_tb
+instance -switch_traversal_tb.st_if
+instance -switch_traversal_tb.st_if.driver_cb
+instance -switch_traversal_tb.st_if.monitor_cb
+instance +switch_traversal_tb.st_if.select_id

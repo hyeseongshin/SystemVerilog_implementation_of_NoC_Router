@@ -1,0 +1,10 @@
+module -glbl
+module -setting_noc
+module -setting_tb
+module -route_computation_tb
+instance -route_computation_tb.rc_if
+instance -route_computation_tb.rc_if.driver_cb
+instance -route_computation_tb.rc_if.monitor_cb
+instance -route_computation_tb.dut.rc_sva
+signal -route_computation_tb.dut.dest_LUT
+signal -route_computation_tb.dut.reg_request
