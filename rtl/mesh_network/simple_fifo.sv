@@ -9,7 +9,7 @@
  * NOTE: This work has been modified from the original source code.
  * Changes:
  * - Modified the network topology to a flat 2D mesh.
- * - Remove the pipeline stage at the output port.
+ * - Removed the pipeline stage at the output port.
  * - Modified the arbiter priority from descending order (MSB to LSB)
  *   to ascending order (LSB to MSB) for round robin rotation.
  * ------------------------------------------------------------------------------
